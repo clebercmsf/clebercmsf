@@ -1,4 +1,4 @@
-### Olá! me chamo Cleber Cabral, graduando em ADS!
+### Olá! me chamo Cleber Cabral, estou graduando em ADS!
 - 🔭 Hoje trabalho com Suporte Ti
 - 🌱 Estudando Front-End & NodeJs
 - 😄 Pronomes: ele/dele

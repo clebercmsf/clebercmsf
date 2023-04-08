@@ -1,6 +1,6 @@
-### Olá! me chamo Cleber Cabral, estou graduando em ADS!
+### Olá, eu sou o Cleber!
 - 🔭 Hoje trabalho com Suporte Ti
-- 🌱 Estudando: Front-End & NodeJs
+- 🌱 Estudando: Curso Analise e Desenvolvimento de Sistemas | Front-End & NodeJs
 - 😄 Pronomes: ele/dele
 
 <div>

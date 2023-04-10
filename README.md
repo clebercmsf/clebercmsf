@@ -1,6 +1,6 @@
 ### Olá, eu sou o Cleber!
 - 🔭 Hoje trabalho com Suporte Ti
-- 🌱 Estudando: Curso Analise e Desenvolvimento de Sistemas | Front-End & NodeJs
+- 🌱 Curso Analise e Desenvolvimento de Sistemas e no momento estou estudando Front-End & NodeJs
 
 <div>
 <br>

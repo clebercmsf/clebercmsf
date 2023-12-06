@@ -1,6 +1,6 @@
 ### Olá, eu sou o Cleber!
 - 🔭 Hoje trabalho com Suporte Ti
-- 🌱 Curso Analise e Desenvolvimento de Sistemas e no momento estou estudando Js/TypeScript no Front-End & Back-End em PHP
+- 🌱 Curso Analise e Desenvolvimento de Sistemas e no momento estou estudando TypeScript.
 
 <div>
 <br>

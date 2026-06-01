@@ -1,5 +1,5 @@
 ### Olá, eu sou o Cleber!
-- 🔭 Gerente de TI
+- 🔭 Gerente de TI.
 - 🌱 Graduado em Análise e Desenvolvimento de Sistemas e no momento estou estudando Java.
 
 <div>

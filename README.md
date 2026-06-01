@@ -1,6 +1,6 @@
 ### Olá, eu sou o Cleber!
-- 🔭 Hoje trabalho com Suporte Ti
-- 🌱 Curso Analise e Desenvolvimento de Sistemas e no momento estou estudando Ionic.
+- 🔭 Gerente de TI
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas e no momento estou estudando Java.
 
 <div>
 <br>
